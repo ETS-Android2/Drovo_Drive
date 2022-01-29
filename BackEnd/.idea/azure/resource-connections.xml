@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="connections">
+    <connection type="Azure.SqlServer:Jetbrains.IJModule" envPrefix="AZURE_SQLSERVER">
+      <resource type="Azure.SqlServer">7868cf3bb459846f7e8fc2b75326e177</resource>
+      <consumer type="Jetbrains.IJModule">drovo</consumer>
+    </connection>
+  </component>
+</project>
