@@ -6,6 +6,13 @@ It is an android application that utilizes the REST API's provided by backend to
 
 ## BackEnd
 It is a spring boot application that exposes various API's for various operations like register/login/upload image/delete image etc.
+It uses the following azure cloud technologies.
+<h4> Azure services </h4>
+<ol> 
+  <li> azure app service</li>
+  <li> azure sql </li>
+  <li> azure blob storage </li>
+</ol>
 
 
 ## screenshots
